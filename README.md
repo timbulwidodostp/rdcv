@@ -1,6 +1,8 @@
 # rdcv
 Sharp Regression Discontinuity Design with Cross Validation Bandwidth Selection Use rdcv With STATA 18
 
+https://www.youtube.com/watch?v=emspuAAKg4w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
